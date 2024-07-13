@@ -1,4 +1,5 @@
 # Introduction
+Mathematical Model
 # Q1
 A Damped mass-spring system with two degrees of freedom consists of two masses, two springs, and two dampers (similar to Figure 4). 
 For the above system, first convert the governing differential equation into a parametric form using Simulink in MATLAB 
