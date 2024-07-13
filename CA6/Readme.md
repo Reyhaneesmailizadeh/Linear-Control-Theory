@@ -1,2 +1,2 @@
 # Introduction
-The root locus of a feedback system.
+Bode plot and phase plot of systems.
