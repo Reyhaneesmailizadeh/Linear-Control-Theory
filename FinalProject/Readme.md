@@ -1,2 +1,2 @@
 # Introduction 
-DC motor system analysis in matlab.
+DC motor system: analysis, simulation, and modeling in matlab.
